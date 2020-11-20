@@ -18,3 +18,8 @@ yarn-error.log*
 /__tests__/covarage/lcov-report
 __tests__/database.sqlite
 
+.idea/.gitignore
+.idea/Delivery.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
