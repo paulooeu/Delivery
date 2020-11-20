@@ -7,6 +7,8 @@
 ## 🚀 Tecnologias
 
 - Express — A web framework for Node.js
+- EsLint
+- Prettier
 
 
 ## ✋🏻 Pré-requisitos
