@@ -2,8 +2,8 @@
   "name": "delivery",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/paulooeu/dock.git",
-  "author": "Paulo Lima <paulo.lima@projetox.inf.br>",
+  "repository": "https://github.com/paulooeu/delivery.git",
+  "author": "Paulo Lima <paulo.s.2011@hotmail.com.br>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/server.js",
