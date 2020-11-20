@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias
 
 - Express — A web framework for Node.js
-- Jest - Testes
+
 
 ## ✋🏻 Pré-requisitos
 
@@ -21,7 +21,7 @@
 2. Rode `yarn ou npm install` para instalar as dependências;
 3. Verifique o key do sistema gifs no `.env`;
 4. Rode `yarn dev` para iniciar o servidor.
-5. Para realizar os teste rode  `yarn teste`.
+
 
 
 
